@@ -16,3 +16,16 @@ Check](https://github.com/ijapesigan/lib-r-manual/actions/workflows/shellcheck.y
 <!-- badges: end -->
 
 ## References
+
+<div id="refs" class="references csl-bib-body hanging-indent"
+line-spacing="2">
+
+<div id="ref-RCoreTeam-2023" class="csl-entry">
+
+R Core Team. (2023). *R: A language and environment for statistical
+computing*. R Foundation for Statistical Computing.
+<https://www.R-project.org/>
+
+</div>
+
+</div>
