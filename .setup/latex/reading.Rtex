@@ -43,7 +43,8 @@
 %         ".setup",
 %         "latex",
 %         "bib"
-%       )
+%       ),
+%       style = "reading"
 %     )
 %   )
 % } else {
