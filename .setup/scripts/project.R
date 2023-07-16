@@ -14,11 +14,13 @@
 #' | `ignore`         | Items to add to `.Rbuildignore`.                    |
 #'
 
-project <- "template"
+project <- "lib-r-manual"
 
 pkg_cran <- c()
 
-pkg_github <- c()
+pkg_github <- c(
+  "ijapesigan/rProject"
+)
 
 pkg_github_ref <- c()
 
