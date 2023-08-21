@@ -1,7 +1,9 @@
 ---
 title: References
 nocite: |
-  @*
+  @RCoreTeam-2021
+  @RCoreTeam-2022
+  @RCoreTeam-2023
 ---
 
 ::: {#refs}

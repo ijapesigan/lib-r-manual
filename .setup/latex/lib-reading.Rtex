@@ -71,12 +71,17 @@
 
 \begin{center}
     \LARGE
-    \textbf{Ivan Jacob Agaloos Pesigan} \\
+    \textbf{R Manual} \\
+    Ivan Jacob Agaloos Pesigan \\
     \large
-    \textbf{\today}
+    \today
 \end{center}
 
-\nocite{*}
+\nocite{RCoreTeam-2021}
+
+\nocite{RCoreTeam-2022}
+
+\nocite{RCoreTeam-2023}
 
 \printbibliography
 
